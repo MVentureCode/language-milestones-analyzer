@@ -1,0 +1,246 @@
+{
+  "framework": "Bloom & Lahey — Forma, Contenido, Uso",
+  "reference": "Bosch 2004, Halliday 1975, Piaget",
+  "stages": {
+    "0_3m": {
+      "label": "0–3 meses",
+      "stage": "Prelingüística",
+      "forma": [
+        "Llanto y vocalizaciones reflejas",
+        "Gorgojeo sonidos de agrado",
+        "Sin control voluntario del aparato fonoarticulatorio"
+      ],
+      "contenido": [
+        "Sobresalto a ruidos repentinos",
+        "Atención al mundo auditivo y visual",
+        "Reconocimiento de la voz materna"
+      ],
+      "uso": [
+        "Contacto ocular inconsistente",
+        "Primeras respuestas sociales no voluntarias"
+      ],
+      "alert": "Ausencia total de respuesta a sonidos intensos o de vocalizaciones antes de los 3 meses"
+    },
+    "3_6m": {
+      "label": "3–6 meses",
+      "stage": "Prelingüística",
+      "forma": [
+        "Juego vocálico",
+        "Llanto diferenciado: hambre, sueño, dolor",
+        "Balbuceo rudimentario",
+        "Aparición de las vocales"
+      ],
+      "contenido": [
+        "Mayor interés por rostros",
+        "Comprensión de la prosodia",
+        "Fijación de la mirada a estímulos visuales",
+        "Búsqueda de fuente sonora"
+      ],
+      "uso": [
+        "Sonrisa social",
+        "Responde diferencialmente a personas familiares"
+      ],
+      "alert": "Ausencia de sonrisa social antes de los 6 meses. No vocaliza ante interacción del cuidador"
+    },
+    "6_9m": {
+      "label": "6–9 meses",
+      "stage": "Prelingüística",
+      "forma": [
+        "Imitación de sonidos ecolalia",
+        "Jerga con entonación del adulto",
+        "Balbuceo reduplicativo canónico CV-CV-CV",
+        "Repetición de diptongos",
+        "Prolongación de sonido final"
+      ],
+      "contenido": [
+        "Permanencia del objeto",
+        "Reacciona al nombre",
+        "Inicio comprensión léxica",
+        "Llora cuando sus padres dejan la habitación a los 9 meses"
+      ],
+      "uso": [
+        "Protoconversaciones",
+        "Atención y acción conjunta",
+        "Expresión facial e intersubjetividad",
+        "Triangulación niño–adulto–objeto",
+        "Capaz de pedir objetos"
+      ],
+      "alert": "Ausencia de balbuceo canónico a los 9 meses. No responde a su nombre"
+    },
+    "9_12m": {
+      "label": "9–12 meses",
+      "stage": "Prelingüística",
+      "forma": [
+        "Balbuceo no reduplicativo",
+        "Jerga",
+        "Protopalabras"
+      ],
+      "contenido": [
+        "Juego funcional",
+        "Comprensión de palabras familiares: no, sí, nombre",
+        "Entiende entre 5 y 30 palabras",
+        "Busca juguetes escondidos",
+        "Entrega objeto ante dame"
+      ],
+      "uso": [
+        "Intención comunicativa clara",
+        "Protoimperativo y protodeclarativo",
+        "Señala con dedo índice para conseguir objetos",
+        "Mueve cabeza para negar y mano para decir adiós"
+      ],
+      "alert": "No balbucea, no hace gestos como señalar o decir adiós, no responde a su nombre a los 12 meses"
+    },
+    "12_18m": {
+      "label": "12–18 meses",
+      "stage": "Lingüística",
+      "forma": [
+        "Prosodia diferenciada",
+        "Jerga como si fueran oraciones completas",
+        "Estructura silábica predominante CV"
+      ],
+      "contenido": [
+        "Vocabulario expresivo aproximado de 20 palabras",
+        "Comprende órdenes sencillas: mira, dame, ven, come",
+        "Holofrases: una palabra equivale a una frase",
+        "Reconoce partes del cuerpo",
+        "Sobreextensión semántica",
+        "Señala 3 partes de su cuerpo"
+      ],
+      "uso": [
+        "Lleva objetos a los padres",
+        "Desarrollo de función declarativa",
+        "Inicio del juego simbólico a los 18 meses"
+      ],
+      "alert": "No dice ninguna palabra con significado a los 18 meses. No señala para mostrar objetos"
+    },
+    "18_24m": {
+      "label": "18–24 meses",
+      "stage": "Lingüística",
+      "forma": [
+        "Predominio estructura silábica CV",
+        "Adquiere todas las vocales"
+      ],
+      "contenido": [
+        "Enunciados de dos elementos",
+        "Primeros interrogativos: qué, dónde",
+        "Oraciones negativas con no",
+        "Adjetivos básicos: bonito, feo, sucio, limpio",
+        "Noción de pertenencia mío"
+      ],
+      "uso": [
+        "Busca objetos no presentes",
+        "Niega y afirma con gestos y palabras",
+        "Inicio teoría de la mente"
+      ],
+      "alert": "No combina dos palabras espontáneamente a los 24 meses. Vocabulario expresivo menor a 50 palabras"
+    },
+    "2_3y": {
+      "label": "2–3 años",
+      "stage": "Lingüística",
+      "forma": [
+        "Aparición de dífonos vocálicos",
+        "Procesos fonológicos de simplificación",
+        "Palabras de 2 y 3 sílabas"
+      ],
+      "contenido": [
+        "Comprensión aproximada de 250 palabras",
+        "Secuencias de 3 elementos sustantivo verbo sustantivo",
+        "Preposiciones de lugar: en, sobre, bajo, debajo, detrás",
+        "Noción de género y número"
+      ],
+      "uso": [
+        "Mantiene tópico con algunos turnos",
+        "Función heurística mediante preguntas",
+        "Habilidades conversacionales básicas"
+      ],
+      "alert": "No combina 3 palabras a los 3 años. Desconocidos no le entienden prácticamente nada. No hace preguntas simples"
+    },
+    "3_4y": {
+      "label": "3–4 años",
+      "stage": "Lingüística",
+      "forma": [
+        "Inicio conciencia fonológica a los 36–42 meses",
+        "Dífonos consonánticos",
+        "Palabras de 2 a 4 sílabas",
+        "Dificultad con líquidos l, r, rr"
+      ],
+      "contenido": [
+        "Oraciones subordinadas con pero y porque",
+        "Pasado compuesto con auxiliar haber",
+        "Estructuras pasivas a los 42–46 meses",
+        "Atributos: tamaño, cantidad, color, temperatura",
+        "Posición espacial: arriba, abajo, dentro, afuera"
+      ],
+      "uso": [
+        "Respeta turno conversacional",
+        "Adapta comunicación al interlocutor",
+        "Repara quiebres comunicativos",
+        "Proto-narrativas: relata eventos simples"
+      ],
+      "alert": "No usa oraciones de más de 3 palabras. No hace preguntas de por qué. Extraños no le entienden"
+    },
+    "4_5y": {
+      "label": "4–5 años",
+      "stage": "Lingüística",
+      "forma": [
+        "Adquisición de líquidas l y r entre los 4,5 y 6 años",
+        "Dificultad con algunas trabantes y sílabas complejas"
+      ],
+      "contenido": [
+        "Pronombres reflexivos: me, te, se, os",
+        "Pronombres posesivos: para ti, para mí",
+        "Adverbios temporales: ayer, hoy, mañana, antes, después",
+        "Conceptos de forma y longitud: mismo, diferente, ancho"
+      ],
+      "uso": [
+        "Uso frecuente de por qué y cómo",
+        "Comprende la falsedad",
+        "Habla sobre sus intereses",
+        "Conciencia metalingüística: rimas y segmentación silábica"
+      ],
+      "alert": "Persisten errores en líquidas en todas las posiciones después de los 4,5 años"
+    },
+    "5_6y": {
+      "label": "5–6 años",
+      "stage": "Lingüística",
+      "forma": [
+        "Adquisición de líquidas completada",
+        "Persiste dificultad con trabantes y sílabas complejas"
+      ],
+      "contenido": [
+        "Vocabulario aproximado de 2500 palabras",
+        "Identificación de absurdos verbales",
+        "Distingue mano derecha e izquierda en sí mismo",
+        "Responde a qué, cómo, cuándo, quién"
+      ],
+      "uso": [
+        "Teoría de la mente muy desarrollada",
+        "Juega en grupos de 2 a 5 niños",
+        "Respuestas pertinentes a las preguntas",
+        "Conoce la vergüenza como emoción social"
+      ],
+      "alert": "Grupos consonánticos deficientes después de los 5 años requieren evaluación"
+    },
+    "6_7y": {
+      "label": "6–7 años",
+      "stage": "Lingüística",
+      "forma": [
+        "Afianzamiento de todos los fonemas",
+        "Conciencia fonológica completa a los 7 años"
+      ],
+      "contenido": [
+        "Sinónimos y antónimos de palabras conocidas",
+        "Cantidades relativas: más que, menos que",
+        "Referentes temporales: días de la semana, meses, estaciones",
+        "Comprensión de semejanzas verbales a los 7 años"
+      ],
+      "uso": [
+        "Participa en juegos con reglas",
+        "Comprende chistes y adivinanzas",
+        "Persuasión sofisticada",
+        "Narrativa con relaciones causales y temporales complejas"
+      ],
+      "alert": "Dificultades persistentes en conciencia fonológica a los 7 años son predictor de dificultades en lectoescritura"
+    }
+  }
+}
