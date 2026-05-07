@@ -60,7 +60,6 @@ disorders, neurodevelopment, AAC, and dysphagia. Currently combining
 clinical knowledge with Python to build tools at the intersection of 
 speech-language pathology and health technology.
 
-→ Exploring the intersection of speech language pathology and health technology.
 
 -----------------------------------------
 -----------------------------------------
