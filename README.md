@@ -61,3 +61,57 @@ clinical knowledge with Python to build tools at the intersection of
 speech-language pathology and health technology.
 
 → Exploring the intersection of speech language pathology and health technology.
+
+-----------------------------------------
+-----------------------------------------
+
+# Analizador de Hitos del Lenguaje
+
+Herramienta clínica en Python que cruza perfiles de desarrollo del lenguaje 
+infantil con hitos normativos y genera informes estructurados para la 
+práctica de la logopedia.
+
+## Por qué existe este proyecto
+
+La mayoría de herramientas para logopedia son demasiado genéricas o 
+demasiado complejas para el uso clínico cotidiano. Este analizador nació 
+de la práctica real — combinando más de 10 años de experiencia clínica en 
+lenguaje infantil, neurodesarrollo y CAA con Python para crear algo 
+clínicamente significativo y técnicamente funcional.
+
+## Qué hace
+
+- Carga el perfil de un niño desde un archivo CSV (edad, motivo de 
+  derivación, antecedentes clínicos, descripción del cuidador)
+- Determina la etapa normativa correspondiente según la edad
+- Compara el perfil con los hitos esperados en tres dominios:
+  Forma, Contenido y Uso (modelo de Bloom & Lahey)
+- Señala alertas clínicas para cada etapa del desarrollo
+- Genera un informe estructurado guardado como archivo de texto
+
+## Marco clínico
+
+Los hitos están basados en:
+- **Bloom & Lahey (1978)** — Modelo Forma, Contenido y Uso
+- **Bosch (2004)** — Adquisición fonético-fonológica del español
+- **Halliday (1975)** — Funciones del lenguaje
+- **Piaget** — Estadios cognitivos como base semántica
+
+## Cómo ejecutarlo
+
+```bash
+git clone https://github.com/MVentureCode/language-milestones-analyzer.git
+cd language-milestones-analyzer
+python3 analyzer.py
+```
+
+Los informes se generan en la carpeta `/output`, uno por perfil.
+
+## Sobre la autora
+
+Logopeda con experiencia clínica en trastornos del lenguaje infantil, 
+neurodesarrollo, CAA y disfagia. Actualmente combinando conocimiento 
+clínico con Python para construir herramientas en la intersección entre 
+logopedia y tecnología sanitaria.
+
+→ Abierta a oportunidades en HealthTech e Inteligencia Artificial Clínica.
