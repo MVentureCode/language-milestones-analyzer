@@ -1,0 +1,48 @@
+============================================================
+CLINICAL LANGUAGE MILESTONE REPORT
+Generated: 2026-05-07 11:58
+============================================================
+Child:        Emma T.
+Age:          6 years 8 months
+Gender:       F
+Referred by:  Colegio
+Reason:       Dificultades en lectoescritura. Invierte letras y números. No retiene grafemas. Confunde sonidos al escribir
+------------------------------------------------------------
+Caregiver description:
+  'Es muy inteligente y espabilada pero en el cole sufre mucho. Se esfuerza el doble que los demás y los resultados no acompañan. En casa es otra niña'
+------------------------------------------------------------
+Normative stage: 6–7 años — Lingüística
+Framework: Bloom & Lahey — Forma, Contenido, Uso
+
+EXPECTED MILESTONES FOR THIS AGE:
+
+  FORM (Phonology & Morphosyntax):
+    · Afianzamiento de todos los fonemas
+    · Conciencia fonológica completa a los 7 años
+
+  CONTENT (Semantics):
+    · Sinónimos y antónimos de palabras conocidas
+    · Cantidades relativas: más que, menos que
+    · Referentes temporales: días de la semana, meses, estaciones
+    · Comprensión de semejanzas verbales a los 7 años
+
+  USE (Pragmatics):
+    · Participa en juegos con reglas
+    · Comprende chistes y adivinanzas
+    · Persuasión sofisticada
+    · Narrativa con relaciones causales y temporales complejas
+
+  ⚠ ALERT SIGNAL:
+    Dificultades persistentes en conciencia fonológica a los 7 años son predictor de dificultades en lectoescritura
+
+CLINICAL BACKGROUND:
+  Birth weight:        3.3 kg
+  Pregnancy notes:     Ninguna
+  Birth notes:         Parto vaginal sin complicaciones
+  First steps:         12 months
+  First words:         13 months
+  Sphincter control:   Diurno y nocturno controlado
+  Home play/social:    Juego simbólico adecuado. Disfruta juegos de imaginación y dibujo
+  School play/social:  Le cuesta seguir el ritmo en clase. Buena relación con compañeros pero evita leer en voz alta
+  Extracurricular:     Dibujo y manualidades
+============================================================

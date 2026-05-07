@@ -1,0 +1,48 @@
+============================================================
+CLINICAL LANGUAGE MILESTONE REPORT
+Generated: 2026-05-07 11:58
+============================================================
+Child:        Lucas M.
+Age:          2 years 11 months
+Gender:       M
+Referred by:  Familia
+Reason:       Apenas dice palabras. El hermano mayor hablaba mucho más a esta edad
+------------------------------------------------------------
+Caregiver description:
+  'Es muy listo con los ojos. Entiende todo pero no habla. Su hermano le habla por él'
+------------------------------------------------------------
+Normative stage: 2–3 años — Lingüística
+Framework: Bloom & Lahey — Forma, Contenido, Uso
+
+EXPECTED MILESTONES FOR THIS AGE:
+
+  FORM (Phonology & Morphosyntax):
+    · Aparición de dífonos vocálicos
+    · Procesos fonológicos de simplificación
+    · Palabras de 2 y 3 sílabas
+
+  CONTENT (Semantics):
+    · Comprensión aproximada de 250 palabras
+    · Secuencias de 3 elementos sustantivo verbo sustantivo
+    · Preposiciones de lugar: en, sobre, bajo, debajo, detrás
+    · Noción de género y número
+
+  USE (Pragmatics):
+    · Mantiene tópico con algunos turnos
+    · Función heurística mediante preguntas
+    · Habilidades conversacionales básicas
+
+  ⚠ ALERT SIGNAL:
+    No combina 3 palabras a los 3 años. Desconocidos no le entienden prácticamente nada. No hace preguntas simples
+
+CLINICAL BACKGROUND:
+  Birth weight:        2.9 kg
+  Pregnancy notes:     Amenaza de aborto en primer trimestre
+  Birth notes:         Parto vaginal
+  First steps:         15 months
+  First words:         22 months
+  Sphincter control:   En proceso
+  Home play/social:    Juego funcional. Le gustan los libros y señala mucho
+  School play/social:  Asiste a guardería. Se adapta bien. Observador
+  Extracurricular:     Ninguna
+============================================================

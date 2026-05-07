@@ -1,0 +1,51 @@
+============================================================
+CLINICAL LANGUAGE MILESTONE REPORT
+Generated: 2026-05-07 11:58
+============================================================
+Child:        Andreu P.
+Age:          3 years 9 months
+Gender:       M
+Referred by:  Pediatra
+Reason:       Valoración del lenguaje en contexto bilingüe catalán castellano
+------------------------------------------------------------
+Caregiver description:
+  'Es un torbellino. Habla mezclando los dos idiomas y a veces no sabemos si es normal o hay algún problema'
+------------------------------------------------------------
+Normative stage: 3–4 años — Lingüística
+Framework: Bloom & Lahey — Forma, Contenido, Uso
+
+EXPECTED MILESTONES FOR THIS AGE:
+
+  FORM (Phonology & Morphosyntax):
+    · Inicio conciencia fonológica a los 36–42 meses
+    · Dífonos consonánticos
+    · Palabras de 2 a 4 sílabas
+    · Dificultad con líquidos l, r, rr
+
+  CONTENT (Semantics):
+    · Oraciones subordinadas con pero y porque
+    · Pasado compuesto con auxiliar haber
+    · Estructuras pasivas a los 42–46 meses
+    · Atributos: tamaño, cantidad, color, temperatura
+    · Posición espacial: arriba, abajo, dentro, afuera
+
+  USE (Pragmatics):
+    · Respeta turno conversacional
+    · Adapta comunicación al interlocutor
+    · Repara quiebres comunicativos
+    · Proto-narrativas: relata eventos simples
+
+  ⚠ ALERT SIGNAL:
+    No usa oraciones de más de 3 palabras. No hace preguntas de por qué. Extraños no le entienden
+
+CLINICAL BACKGROUND:
+  Birth weight:        3.8 kg
+  Pregnancy notes:     Ninguna
+  Birth notes:         Parto vaginal sin complicaciones
+  First steps:         11 months
+  First words:         12 months
+  Sphincter control:   Diurno controlado
+  Home play/social:    Juego simbólico muy desarrollado. Mezcla idiomas al jugar
+  School play/social:  Muy sociable. Rol de líder en el grupo
+  Extracurricular:     Fútbol y música
+============================================================

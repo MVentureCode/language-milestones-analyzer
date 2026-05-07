@@ -1,0 +1,48 @@
+============================================================
+CLINICAL LANGUAGE MILESTONE REPORT
+Generated: 2026-05-07 11:58
+============================================================
+Child:        Sofía R.
+Age:          4 years 7 months
+Gender:       F
+Referred by:  Colegio
+Reason:       Dificultades de pronunciación. No le entienden en clase
+------------------------------------------------------------
+Caregiver description:
+  'Es una niña muy expresiva y creativa. Tiene muchísimas cosas que contar pero se pone triste cuando los demás no la entienden'
+------------------------------------------------------------
+Normative stage: 4–5 años — Lingüística
+Framework: Bloom & Lahey — Forma, Contenido, Uso
+
+EXPECTED MILESTONES FOR THIS AGE:
+
+  FORM (Phonology & Morphosyntax):
+    · Adquisición de líquidas l y r entre los 4,5 y 6 años
+    · Dificultad con algunas trabantes y sílabas complejas
+
+  CONTENT (Semantics):
+    · Pronombres reflexivos: me, te, se, os
+    · Pronombres posesivos: para ti, para mí
+    · Adverbios temporales: ayer, hoy, mañana, antes, después
+    · Conceptos de forma y longitud: mismo, diferente, ancho
+
+  USE (Pragmatics):
+    · Uso frecuente de por qué y cómo
+    · Comprende la falsedad
+    · Habla sobre sus intereses
+    · Conciencia metalingüística: rimas y segmentación silábica
+
+  ⚠ ALERT SIGNAL:
+    Persisten errores en líquidas en todas las posiciones después de los 4,5 años
+
+CLINICAL BACKGROUND:
+  Birth weight:        3.5 kg
+  Pregnancy notes:     Ninguna
+  Birth notes:         Parto vaginal sin complicaciones
+  First steps:         12 months
+  First words:         14 months
+  Sphincter control:   Diurno y nocturno controlado
+  Home play/social:    Juego simbólico rico. Muy activa e imaginativa
+  School play/social:  Sociable. Le gusta jugar con otros niños aunque a veces frustra cuando no la entienden
+  Extracurricular:     Ballet
+============================================================

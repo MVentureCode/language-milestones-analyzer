@@ -1,0 +1,48 @@
+============================================================
+CLINICAL LANGUAGE MILESTONE REPORT
+Generated: 2026-05-07 11:58
+============================================================
+Child:        Valentina C.
+Age:          5 years 3 months
+Gender:       F
+Referred by:  Neuropediatra
+Reason:       Dificultades de comprensión y expresión. Diagnóstico previo de retraso global del desarrollo
+------------------------------------------------------------
+Caregiver description:
+  'Es una luchadora. Ha avanzado muchísimo pero sabemos que necesita más ayuda. Es muy perseverante'
+------------------------------------------------------------
+Normative stage: 5–6 años — Lingüística
+Framework: Bloom & Lahey — Forma, Contenido, Uso
+
+EXPECTED MILESTONES FOR THIS AGE:
+
+  FORM (Phonology & Morphosyntax):
+    · Adquisición de líquidas completada
+    · Persiste dificultad con trabantes y sílabas complejas
+
+  CONTENT (Semantics):
+    · Vocabulario aproximado de 2500 palabras
+    · Identificación de absurdos verbales
+    · Distingue mano derecha e izquierda en sí mismo
+    · Responde a qué, cómo, cuándo, quién
+
+  USE (Pragmatics):
+    · Teoría de la mente muy desarrollada
+    · Juega en grupos de 2 a 5 niños
+    · Respuestas pertinentes a las preguntas
+    · Conoce la vergüenza como emoción social
+
+  ⚠ ALERT SIGNAL:
+    Grupos consonánticos deficientes después de los 5 años requieren evaluación
+
+CLINICAL BACKGROUND:
+  Birth weight:        2.1 kg
+  Pregnancy notes:     Preeclampsia
+  Birth notes:         Parto prematuro 34 semanas
+  First steps:         18 months
+  First words:         28 months
+  Sphincter control:   Diurno controlado nocturno en proceso
+  Home play/social:    Juego funcional. Disfruta rutinas y juegos repetitivos
+  School play/social:  Integrada en aula con apoyo. Vinculo positivo con la maestra
+  Extracurricular:     Hidroterapia
+============================================================

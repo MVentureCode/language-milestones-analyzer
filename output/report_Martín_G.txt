@@ -1,0 +1,51 @@
+============================================================
+CLINICAL LANGUAGE MILESTONE REPORT
+Generated: 2026-05-07 11:58
+============================================================
+Child:        Martín G.
+Age:          3 years 2 months
+Gender:       M
+Referred by:  Pediatra
+Reason:       Retraso en el desarrollo del lenguaje expresivo
+------------------------------------------------------------
+Caregiver description:
+  'Es muy tranquilo. Vive en su mundo. Le cuesta conectar con otros niños pero es muy cariñoso con nosotros'
+------------------------------------------------------------
+Normative stage: 3–4 años — Lingüística
+Framework: Bloom & Lahey — Forma, Contenido, Uso
+
+EXPECTED MILESTONES FOR THIS AGE:
+
+  FORM (Phonology & Morphosyntax):
+    · Inicio conciencia fonológica a los 36–42 meses
+    · Dífonos consonánticos
+    · Palabras de 2 a 4 sílabas
+    · Dificultad con líquidos l, r, rr
+
+  CONTENT (Semantics):
+    · Oraciones subordinadas con pero y porque
+    · Pasado compuesto con auxiliar haber
+    · Estructuras pasivas a los 42–46 meses
+    · Atributos: tamaño, cantidad, color, temperatura
+    · Posición espacial: arriba, abajo, dentro, afuera
+
+  USE (Pragmatics):
+    · Respeta turno conversacional
+    · Adapta comunicación al interlocutor
+    · Repara quiebres comunicativos
+    · Proto-narrativas: relata eventos simples
+
+  ⚠ ALERT SIGNAL:
+    No usa oraciones de más de 3 palabras. No hace preguntas de por qué. Extraños no le entienden
+
+CLINICAL BACKGROUND:
+  Birth weight:        3.2 kg
+  Pregnancy notes:     Ninguna
+  Birth notes:         Parto por cesárea de urgencia
+  First steps:         13 months
+  First words:         18 months
+  Sphincter control:   Diurno controlado
+  Home play/social:    Juega solo con preferencia por objetos con rueda. Poco juego simbólico
+  School play/social:  Llora al separarse. Juego paralelo sin interacción
+  Extracurricular:     Ninguna
+============================================================
